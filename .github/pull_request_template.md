@@ -4,4 +4,3 @@ For every PR you create, please complete the [GitHub Copilot PR Survey](https://
 
 **Did you use AI tools (e.g., Copilot) in any part of this PR?**
 - [ ] Yes
-- [ ] No
